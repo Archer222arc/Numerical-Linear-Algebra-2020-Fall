@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{wang2013multigrid}
+Ming Wang and Long Chen.
+\newblock Multigrid methods for the stokes equations using distributive
+  gauss--seidel relaxations based on the least squares commutator.
+\newblock {\em Journal of Scientific Computing}, 56(2):409--431, 2013.
+
+\bibitem{chenfinite}
+Long Chen.
+\newblock Finite difference method for stokes equations: Mac scheme.
+
+\bibitem{cheng2000nonlinear}
+Xiao-liang Cheng.
+\newblock On the nonlinear inexact uzawa algorithm for saddle-point problems.
+\newblock 37(6):1930--1934, 2000.
+
+\end{thebibliography}

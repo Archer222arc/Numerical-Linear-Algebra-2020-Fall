@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Numerical\040Scheme}{}% 1
+\BOOKMARK [1][-]{section.2}{Distributive\040Gauss\040Seidel}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Algorithm\040Analysis}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{V-cycle\040mutigrid}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Numerical\040Results}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Uzawa}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Algorithm\040Analysis}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Numerical\040Results}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Inexact\040Uzawa}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Algorithm\040Analysis}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Numerical\040Results}{section.4}% 11
